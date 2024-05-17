@@ -1,0 +1,5 @@
+2024/05/17-23:29:29.560 7488 Reusing MANIFEST C:/UnrealProject/UE5/IA/Saved/webcache_4147\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/05/17-23:43:16.030 6980 Level-0 table #5: started
+2024/05/17-23:43:16.037 6980 Level-0 table #5: 1165 bytes OK
+2024/05/17-23:43:16.039 6980 Delete type=0 #3
+2024/05/17-23:43:16.039 6980 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
