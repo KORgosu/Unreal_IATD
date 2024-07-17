@@ -1,6 +1,9 @@
 맵제작 : https://youtu.be/ydkiYtiwDas?si=gJSuuISDm-Cm-CyY
 
 
+구현 및 구동 영상 : https://youtu.be/UJId34eI3Rg
+
+
 해당 영상에 나온 내용을 중심으로 인터렉티브 아트 프로젝트의 구현 및 언리얼의 통신, 각종 에셋 제작의 실력향상 목표
 
 
