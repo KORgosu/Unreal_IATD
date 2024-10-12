@@ -9,15 +9,21 @@ UNREAL(BP) PROJECT
 
 
 
+
+
 [구현 영상]
 
 https://youtu.be/UJId34eI3Rg
 
 
 
+
+
 [사용툴]
 
 Cinema4D, 언리얼엔진5, TouchDesigner
+
+
 
 
 
@@ -30,9 +36,13 @@ Cinema4D, 언리얼엔진5, TouchDesigner
 
 
 
+
+
 [컨셉]
 
 플레이어가 이터널 홀(무한 터널)을 지나가면서 컨트롤러 조작을 통해 맵의 회전, 조명효과, 속도 증가등의 효과 부여
+
+
 
 
 
@@ -43,10 +53,14 @@ https://youtu.be/ydkiYtiwDas?si=gJSuuISDm-Cm-CyY
 
 
 
+
+
 [제작 방법]
 
 Cinema4D 를 이용해 맵 틀 제작
 언리얼엔진(블루프린트 기반)으로 기본적인 맵 제작, 에셋 제작 
+
+
 
 
 
