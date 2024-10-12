@@ -2,6 +2,9 @@
 UNREAL(BP) PROJECT
 
 
+![image](https://github.com/user-attachments/assets/2e5d4c78-0088-4319-a5b2-ecd5689c473a)
+
+
 [교내 시행 개인 인터랙티브 아트 프로젝트, 블루프린트 기반 언리얼엔진5을 이용하여 제작]
 
 
@@ -12,25 +15,31 @@ https://youtu.be/UJId34eI3Rg
 
 
 
+[사용툴]
+
+Cinema4D, 언리얼엔진5, TouchDesigner
 
 
-![image](https://github.com/user-attachments/assets/2e5d4c78-0088-4319-a5b2-ecd5689c473a)
 
 
+[목적]
 
-목적 : 
 블루프린트 기반 언리얼엔진으로 맵을 구현한 뒤, 터치디자이너 프로그램 내부에서 콘솔 컨트롤러와의 연동을 통해 Interactive Art를 구현함
 
-
-
-컨셉 : 플레이어가 이터널 홀(무한 터널)을 지나가면서 컨트롤러 조작을 통해 맵의 회전, 조명효과, 속도 증가등의 효과 부여
+인터렉티브 아트 프로젝트의 구현 및 언리얼의 통신, 각종 에셋 제작의 실력향상 목표
 
 
 
-프로젝트 목적 : 해당 영상에 나온 내용을 중심으로 인터렉티브 아트 프로젝트의 구현 및 언리얼의 통신, 각종 에셋 제작의 실력향상 목표
+[컨셉]
+
+플레이어가 이터널 홀(무한 터널)을 지나가면서 컨트롤러 조작을 통해 맵의 회전, 조명효과, 속도 증가등의 효과 부여
 
 
-맵제작 참고 : https://youtu.be/ydkiYtiwDas?si=gJSuuISDm-Cm-CyY
+
+
+[맵제작 참고]
+
+https://youtu.be/ydkiYtiwDas?si=gJSuuISDm-Cm-CyY
 
 
 
