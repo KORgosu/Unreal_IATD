@@ -6,6 +6,10 @@
 
 
 
+![image](https://github.com/user-attachments/assets/2e5d4c78-0088-4319-a5b2-ecd5689c473a)
+
+
+
 소개 : 블루프린트 기반 언리얼엔진으로 맵을 구현한 뒤, 터치디자이너 프로그램 내부에서 콘솔 컨트롤러와의 연동을 통해 Interactive Art를 구현함
 
 
